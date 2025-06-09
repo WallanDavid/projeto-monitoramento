@@ -10,14 +10,6 @@ Este projeto implementa um ambiente completo de **monitoramento de máquinas Win
 
 ---
 
-## 🖼️ Visão Geral
-
-| Painel Grafana | Consultas Prometheus |
-|----------------|----------------------|
-| ![Grafana](docs/screens/grafana-dashboard.png) | ![Prometheus](docs/screens/prometheus-query.png) |
-
----
-
 ## 🧱 Estrutura do Projeto
 
 ```
